@@ -1,6 +1,6 @@
 # TWS-pluginV2
 
-This is the plugin used in **The Worst Server** but as you can see you can use it on your server too so let's get 
+
 started with tutorial.
 
 ## Requirements
